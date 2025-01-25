@@ -1,9 +1,8 @@
-# Regression models
+# Neural Networks
 ## Introduction
-This directory contains some regression models.
+This directory contains some neural networks.
 
 ## Implemented Models
 | Name       | Description                                                                           |
 |------------|---------------------------------------------------------------------------------------|
-| yelp_stars | This model was trained on yelp data and is used to predict the rating of a restaurant |
 

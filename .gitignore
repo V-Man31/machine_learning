@@ -1,6 +1,7 @@
 #Excluding virtual environments
 .venv
 codecademy/.venv
+.idea
 
 #Excluding genereated files
 codecademy/top_*

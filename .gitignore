@@ -1,0 +1,10 @@
+#Excluding virtual environments
+.venv
+codecademy/.venv
+
+#Excluding genereated files
+codecademy/top_*
+codecademy/regression_models/top_*
+
+#Excluding zip
+codecademy/yelp_regression_project.zip

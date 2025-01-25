@@ -1,0 +1,2 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+codecademy/yelp_stars/jsons/*.json filter=lfs diff=lfs merge=lfs -text

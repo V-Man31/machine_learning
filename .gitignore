@@ -7,4 +7,4 @@ codecademy/top_*
 codecademy/regression_models/top_*
 
 #Excluding zip
-codecademy/yelp_regression_project.zip
+codecademy/regression_models/yelp_stars/jsons/*.json
